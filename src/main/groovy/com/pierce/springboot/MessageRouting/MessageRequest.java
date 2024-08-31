@@ -1,4 +1,4 @@
-package com.pierce.springboot;
+package com.pierce.springboot.MessageRouting;
 
 public class MessageRequest {
     private String message;

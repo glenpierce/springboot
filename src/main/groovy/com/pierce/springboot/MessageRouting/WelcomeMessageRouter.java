@@ -1,4 +1,4 @@
-package com.pierce.springboot;
+package com.pierce.springboot.MessageRouting;
 
 import org.springframework.stereotype.Component;
 

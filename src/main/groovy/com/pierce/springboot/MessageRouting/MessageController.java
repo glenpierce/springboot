@@ -1,4 +1,4 @@
-package com.pierce.springboot;
+package com.pierce.springboot.MessageRouting;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
