@@ -3,7 +3,6 @@ package com.pierce.springboot.MessageRouting;
 public class MessageRequest {
     private String message;
 
-    // Getters and Setters
     public String getMessage() {
         return message;
     }
